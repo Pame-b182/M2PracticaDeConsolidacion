@@ -1,0 +1,9 @@
+body {
+    background-image: url("/assets/img/digimonFondo.jpg");
+    background-size:contain;
+}
+
+.nav-link {
+color:white;
+font-weight: bolder;
+}
